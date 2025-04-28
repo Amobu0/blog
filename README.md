@@ -1,2 +1,2 @@
-# blog
-# blog
+# Blog 만들기
+
